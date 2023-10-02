@@ -1,0 +1,5 @@
+  Makanan favorit Dzaky
+  1. Chiken_breast
+  2. White_rice
+  3. Indomie
+  4. Keripik_elod
